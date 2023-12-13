@@ -7,6 +7,8 @@ Predictive Modeling: Utilizes a trained machine learning model to predict loan e
 User-Friendly Interface: A Streamlit-based web interface that allows users to input their details and receive instant predictions.
 Insightful Feedback: Provides users with insights into factors that may influence their loan eligibility.
 
+# Due to the fact that the model was too large to upload to GitHub, the way forward was to upload the model to a Google Drive and add the link for you to download here: https://drive.google.com/file/d/1ygmyCnBAnz0p233QfQij2YW24-HUdsUu/view?usp=drive_link
+
 ## Installation
 To set up this project locally, follow these steps:
 
@@ -39,6 +41,9 @@ Details about the model training process, including data preprocessing, feature 
 3. Model Selection: Discuss why certain models were chosen.
 4. Model Evaluation: Provide insights into the performance metrics.
 
+## Application Deployment
+Find link to the streamlit deployed application here: 
+Find link to the recorded video here: https://drive.google.com/file/d/18L16BxID4NKy2Il0kKoqP0hvx58sa_DM/view?usp=drive_link 
 ## Technologies Used
 Python: Main programming language used.
 Streamlit: For creating the web application.
