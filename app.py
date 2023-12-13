@@ -1,7 +1,7 @@
 
 import streamlit as st
 import pandas as pd
-import joblib
+# import joblib
 
 # Set page config
 st.set_page_config(page_title='Loan Eligibility Prediction System', page_icon=':bank:', layout='wide')
