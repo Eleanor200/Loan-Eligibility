@@ -7,7 +7,7 @@ Predictive Modeling: Utilizes a trained machine learning model to predict loan e
 User-Friendly Interface: A Streamlit-based web interface that allows users to input their details and receive instant predictions.
 Insightful Feedback: Provides users with insights into factors that may influence their loan eligibility.
 
-# Due to the fact that the model was too large to upload to GitHub, the way forward was to upload the model to a Google Drive and add the link for you to download here: https://drive.google.com/file/d/1ygmyCnBAnz0p233QfQij2YW24-HUdsUu/view?usp=drive_link
+# Due to the fact that the model was too large to upload to GitHub, the way forward was to upload the model to a Google Drive and add the link for you to download here: https://drive.google.com/file/d/1C2MgJR2BtpieEq1lBsX_BZlq9sRJF3mQ/view?usp=drive_link
 
 ## Installation
 To set up this project locally, follow these steps:
